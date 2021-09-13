@@ -1,2 +1,2 @@
 This is assignment 7 text file
-Changed in Git server
+Changed in new-branch
